@@ -1,0 +1,8 @@
+1,Tejaswi,2,A
+2,Surekha,5,B
+3,Pooja,1,C
+4,BabuD,7,E
+5,Yashu,9,B
+6,Jyothi,5,A
+7,Sharma,1,D
+8,Ruchika,11,mangalore
